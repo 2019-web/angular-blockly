@@ -16,5 +16,10 @@ npm install
 npm start
 ```
 
-```localhost:4200``` 在浏览器中访问
+```localhost:4200``` 在浏览器中访问，界面的截图如下 :
+
+![](demo.png)
+
+
+
 
